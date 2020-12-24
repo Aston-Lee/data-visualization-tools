@@ -29,3 +29,6 @@ Python is open source and diffent libraries can be used. Lets look at which visu
 1. Inset Plots (Plotly)
 1. Basic 3D Scatter Plot (Plotly)
 1. Earthquare Animation (Plotly) https://www.kaggle.com/kanncaa1/earthquake-animation-with-plotly
+
+## How to use?
+simply clone the project and run the .ipynb
